@@ -1,9 +1,5 @@
 #!/usr/bin/env python
 # coding: utf-8
-
-# In[1]:
-
-
 ##Classification With Python 2022 
 
 
@@ -313,10 +309,5 @@ print(classification_report(y_test,predictions))
 
 
 print(confusion_matrix(y_test,predictions))
-
-
-# In[ ]:
-
-
 
 

@@ -1,6 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
 ##Classification With Python 2022 
+#This File was in JupyterNoteBook unfortunately there was an error uploading it so i post it as a .py file not .ipynb.
 
 
 # In[35]:
